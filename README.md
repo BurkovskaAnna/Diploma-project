@@ -1,1 +1,5 @@
-# Diploma-project
+```shell
+  npm install
+  bower install
+  gulp
+```
